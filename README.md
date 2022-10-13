@@ -31,8 +31,8 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
   - Model training and evaluation
 
 ## Composition chart
-![image](https://user-images.githubusercontent.com/115723043/195658439-8393a8b0-ba13-46ac-a066-cf8f93f77b6e.png)
 
+![image](https://user-images.githubusercontent.com/115723043/195658439-8393a8b0-ba13-46ac-a066-cf8f93f77b6e.png)
 <div align="center">
   <p> Research Object diagram </p>
 </div>
