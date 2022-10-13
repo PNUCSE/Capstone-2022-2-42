@@ -32,10 +32,11 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 
 ## Composition chart
 <p>Research objective diagram</p>
-![image](https://user-images.githubusercontent.com/115723043/195654203-45eb1ddd-4e65-4323-b4a5-07e5f8fe3456.png)
+![image](https://user-images.githubusercontent.com/115723043/195658439-8393a8b0-ba13-46ac-a066-cf8f93f77b6e.png)
 
 <p>Model design</p>
-![image](https://user-images.githubusercontent.com/115723043/195653946-097d2de2-0cd3-4ee1-b019-240faab4a2c1.png)
+![image](https://user-images.githubusercontent.com/115723043/195658404-26ade6a7-19e4-479d-808b-e6cdc936f800.png)
+
 
 ## introduction and demonstration video
 
