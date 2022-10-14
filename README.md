@@ -47,7 +47,7 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 
 ## How to use
 
-### Model usage
+##### Model usage
 - The model directory includes our model's code. When we did the hyperparameter tuning, we used codes to change parameters.
 - Saved model directory stores our models. We can use those models to check the results or evaluate the model.
 
