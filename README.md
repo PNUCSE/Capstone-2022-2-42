@@ -51,6 +51,23 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 - The model directory includes our model's code. When we did the hyperparameter tuning, we used codes to change parameters.
 - Saved model directory stores our models. We can use those models to check the results or evaluate the model.
 
+```data``` folder contains the data to train. 
+
+  ```data/traceProcess``` is a script to process whole data from ssdtrace-00 to ssdtrace-26 at once
+
+  ```data/labeling``` folder contains the labeled data and codes to lable the datas.
+
+  ```data/labeling/Sector.cpp``` is a code to calculate frequency, access interval, and overall i/o size.
+
+```src/``` only source codes must be included in the subfolder of ```src```   
+
+```src/greedyGC``` Garbage Collection algorithm implementation ```src```
+
+```src/model``` Deep learning models
+
+```src/model/cpp``` Deployment of LSTM Model to C++ environment. 
+
+
 To load saved model
 ```
 tf.keras.models.load_model(<The path of folder>)
