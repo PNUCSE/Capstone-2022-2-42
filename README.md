@@ -7,25 +7,26 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 
 ## Team introduction
 
-#### 최성찬 - team leader
-* Email: 
+#### 최성찬
+* Email: sungchan3100@gmail.com, sungchan3100@pusan.ac.kr
 * Student number: 201824641
-* Role:
+* Role: team leader
   - Labeling data clustering
   - Simulator creation and testing
   - WA improvement measurement
 
-#### Odgerel Ariunbold - team member
+#### Odgerel Ariunbold
 * Email: odgerelariunbold719@gmail.com, odgerelariunbold@pusan.ac.kr
 * Student number: 201824623
-* Role: 
+* Role: team member 
   - Hyperparameter tuning
   - Model training and improvement
   - Data analysis
 
-#### Ganchuluun Narantsatsralt - team member
-* Email: 
+#### Ganchuluun Narantsatsralt
+* Email: tsatsralt2000@gmail.com, tsatsralt2000@pusan.ac.kr
 * Student number: 201824621
+* Role: team member
   - Preprocessing of learning data
   - Model design and development
   - Model training and evaluation
@@ -45,3 +46,17 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 ## introduction and demonstration video
 
 ## How to use
+
+### Model usage
+- The model directory includes our model's code. When we did the hyperparameter tuning, we used codes to change parameters.
+- Saved model directory stores our models. We can use those models to check the results or evaluate the model.
+
+To load saved model
+```
+tf.keras.models.load_model(<The path of folder>)
+```
+
+Following code to unzip the file
+```
+!gzip -d <file path>
+```
