@@ -65,7 +65,9 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 
 ```src/model``` Deep learning models
 
-```src/model/cpp``` Deployment of LSTM Model to C++ environment. 
+```src/model/cpp``` Deployment of LSTM Model to C++ environment.
+
+
 
 
 To load saved model
@@ -77,3 +79,8 @@ Following code to unzip the file
 ```
 !gzip -d <file path>
 ```
+### Sample deployment on C++
++ In order to run the model on C++, you need to install tensorflow's C API.
++ Follow the tensorflow's offical web page to install the C API. ([Click here](https://www.tensorflow.org/install/lang_c))  
++ Then run ``` make runcpp``` command to generate the executable.
+> Note: you need to modify the filename in the MAKEFILE. 
