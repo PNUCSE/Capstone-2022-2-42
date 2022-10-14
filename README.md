@@ -67,7 +67,6 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 
 ```src/model/cpp``` Deployment of LSTM Model to C++ environment. 
 
-
 To load saved model
 ```
 tf.keras.models.load_model(<The path of folder>)
