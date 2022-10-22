@@ -44,7 +44,7 @@ Our "Bros" team worked on improving SSD performance with a deep learning model. 
 </div>
 
 ## introduction and demonstration video
-
+[![Watch the video](https://img.youtube.com/vi/IRtCxXdHl5M/maxresdefault.jpg)](https://www.youtube.com/watch?v=IRtCxXdHl5M&ab_channel=%EB%B6%80%EC%82%B0%EB%8C%80%ED%95%99%EA%B5%90%EC%A0%95%EB%B3%B4%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80)
 ## How to use
 
 ##### Model usage
